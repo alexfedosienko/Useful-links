@@ -24,7 +24,7 @@
 * [JS range slider](http://ionden.com/a/plugins/ion.rangeSlider/)
 * [JS перемещение по DOM дереву](https://webdevblog.ru/ispolzuem-dom-kak-pro/)
 * [Простое модальное окно JQuery](https://jquerymodal.com)
-* [JQuery шаблон ввода чего угодно](https://igorescobar.github.io/)jQuery-Mask-Plugin/)
+* [JQuery шаблон ввода чего угодно](https://igorescobar.github.io/)
 * [JQuery DatePicker](https://habr.com/ru/post/272173/)
 * [JS календарь](https://allwebstuff.info/custom-js-date-picker)
 
